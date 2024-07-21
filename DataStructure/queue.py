@@ -3,7 +3,7 @@
 from collections import deque 
 
 # 使用列表实现
-class queue():
+class Queue():
     def __init__(self):
         self.queue = []
 
