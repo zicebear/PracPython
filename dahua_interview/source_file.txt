@@ -1,0 +1,6 @@
+name:xiaoming   ;   score:  90
+    name:hong  ;score:    60
+   name:lilei;score   :   55
+
+name:  hanhong ; score :3
+name:  xxx  ;score  :100
